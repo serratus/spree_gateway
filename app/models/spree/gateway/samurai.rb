@@ -1,5 +1,5 @@
 module Spree
-  class Gateway::Samurai < Gateway
+  class Gateway::SamuraiFighter < Gateway
     preference :login, :string
     preference :password, :string
     preference :processor_token, :string
